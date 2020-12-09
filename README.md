@@ -2,7 +2,7 @@
 
 Here is our final project
 
-
+_________________________
 
 We were able to call an API and gather real time information relating to stocks.
 
