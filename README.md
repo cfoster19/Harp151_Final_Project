@@ -3,6 +3,7 @@
 Here is our final project
 
 
+
 We were able to call an API and gather real time information relating to stocks.
 
 Using this information we developed an HTML to show this data.
